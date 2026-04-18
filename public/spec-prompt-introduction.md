@@ -1,14 +1,14 @@
 ---
 title: 仕様駆動開発のための軽量デスクトップアプリを作った
 tags:
-  - Tauri
   - AI
+  - デスクトップアプリ
+  - Tauri
   - Claude
   - 仕様駆動開発
-  - デスクトップアプリ
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-04-18T14:01:47+09:00'
+id: 81fd9923520a7aae67f0
 organization_url_name: null
 slide: false
 ignorePublish: false
