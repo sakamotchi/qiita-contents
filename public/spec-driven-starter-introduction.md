@@ -1,14 +1,14 @@
 ---
 title: 仕様駆動開発スターターキットを公開しました
 tags:
+  - ドキュメント
   - AI
+  - 開発手法
   - Claude
   - 仕様駆動開発
-  - 開発手法
-  - ドキュメント
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-04-18T13:49:50+09:00'
+id: 1e7a2abdf89fcfbbeb38
 organization_url_name: null
 slide: false
 ignorePublish: false
