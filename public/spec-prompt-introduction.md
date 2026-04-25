@@ -7,7 +7,7 @@ tags:
   - Claude
   - 仕様駆動開発
 private: false
-updated_at: '2026-04-18T14:01:47+09:00'
+updated_at: '2026-04-25T11:02:20+09:00'
 id: 81fd9923520a7aae67f0
 organization_url_name: null
 slide: false
